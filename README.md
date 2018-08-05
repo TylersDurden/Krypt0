@@ -1,2 +1,2 @@
-# Krypt0
-Second Repository for Cryptography projects
+# MazeRunner 1.0 
+Trying to make some simple AI. 
